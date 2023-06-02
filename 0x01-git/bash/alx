@@ -1,7 +1,5 @@
 #!/bin/bash
-echo "ALX
-Ã^c
-^C
-
-
-clear
+echo "ALX"
+root@10bf7c298b98:/alx-pre_course/0x01-git/bash# cat > school
+#!/bin/bash
+echo "School"
